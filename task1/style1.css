@@ -1,0 +1,10 @@
+.yandex-logo {
+    width: 150px;
+    height: 150px;
+    border-radius: 20px;
+    margin: 20px;
+    box-sizing: border-box;
+    background: linear-gradient(90deg, rgb(245, 241, 232) 50%, rgb(40, 39, 35) 50%);
+    border-top: 75px solid rgb(253, 195, 0);
+    box-shadow: #ada6a6 0 0 8px 0;
+}
